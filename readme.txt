@@ -16,5 +16,4 @@ in your Terminal
 1) {username}:{password}@{hostname}:{port}
 2) {hostname}:{port}:{username}:{password}
 
-# Buy tokens here : https://digiproxy.cc/userPanel/generateProxy
-# Buy 1gb 
+Crpvx
